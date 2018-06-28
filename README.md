@@ -7,6 +7,11 @@
 			demandManager:{
 				url:'../index',
 				componentCode:'demand-order',
+				
+				//name:'',
+				//preLoad:''
+				//postLoad:'',
+				//keep:true,
 			},
 			orderAdd:{
 				url:'../new',
